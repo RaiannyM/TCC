@@ -4,4 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/menu.unity
+  - enabled: 1
+    path: Assets/ambiente.unity
+  - enabled: 1
+    path: Assets/identificacao dos componentes.unity
+  - enabled: 1
+    path: Assets/lista de cuidados.unity
