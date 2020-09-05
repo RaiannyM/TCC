@@ -9,7 +9,11 @@ EditorBuildSettings:
     path: Assets/menu.unity
   - enabled: 1
     path: Assets/ambiente.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/identificacao dos componentes.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/lista de cuidados.unity
+  - enabled: 1
+    path: Assets/lista_de_cuidados.unity
+  - enabled: 1
+    path: Assets/identificacao_dos_componentes.unity
