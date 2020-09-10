@@ -17,3 +17,7 @@ EditorBuildSettings:
     path: Assets/lista_de_cuidados.unity
   - enabled: 1
     path: Assets/identificacao_dos_componentes.unity
+  - enabled: 1
+    path: Assets/impressora.unity
+  - enabled: 1
+    path: Assets/speaker.unity
