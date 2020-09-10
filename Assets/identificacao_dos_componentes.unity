@@ -8786,7 +8786,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: 'Clique em um componente abaixo:'
+  m_Text: 'Clique em qualquer componente abaixo:'
 --- !u!222 &2084730326
 CanvasRenderer:
   m_ObjectHideFlags: 0
