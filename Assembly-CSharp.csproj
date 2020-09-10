@@ -47,11 +47,17 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Fluxo_para_ambiente.cs" />
+     <Compile Include="Assets\Scripts\Fluxo_para_fonte.cs" />
+     <Compile Include="Assets\Scripts\Fluxo_para_gabinete.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_id_componentes.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_impressora.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_lista_de_cuidados.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_menu.cs" />
+     <Compile Include="Assets\Scripts\Fluxo_para_monitor.cs" />
+     <Compile Include="Assets\Scripts\Fluxo_para_mouse.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_speaker.cs" />
+     <Compile Include="Assets\Scripts\Fluxo_para_teclado.cs" />
+     <Compile Include="Assets\Scripts\Fluxo_para_webcam.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />

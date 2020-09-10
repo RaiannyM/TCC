@@ -21,3 +21,13 @@ EditorBuildSettings:
     path: Assets/impressora.unity
   - enabled: 1
     path: Assets/speaker.unity
+  - enabled: 1
+    path: Assets/webcam.unity
+  - enabled: 1
+    path: Assets/monitor.unity
+  - enabled: 1
+    path: Assets/teclado.unity
+  - enabled: 1
+    path: Assets/mouse.unity
+  - enabled: 1
+    path: Assets/gabinete.unity
