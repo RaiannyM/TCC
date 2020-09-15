@@ -63,6 +63,7 @@
      <Compile Include="Assets\Scripts\Fluxo_para_placa_mae.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_placa_som.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_placa_video.cs" />
+     <Compile Include="Assets\Scripts\Fluxo_para_sair.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_speaker.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_ssd.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_teclado.cs" />

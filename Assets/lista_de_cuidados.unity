@@ -163,7 +163,7 @@ GameObject:
   - component: {fileID: 220625396}
   - component: {fileID: 220625395}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Fluxo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -282,7 +282,7 @@ GameObject:
   m_Component:
   - component: {fileID: 543239659}
   - component: {fileID: 543239658}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: popup_bg.9
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/identificacao_dos_componentes.unity
+- path: Assets/menu.unity
   isLoaded: 1
   isActive: 1
