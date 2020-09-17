@@ -1,0 +1,57 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   Intel
+    VRAM:     1116 MB
+    Driver:   26.20.100.7463
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  1.360 seconds
+Platform assembly: C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\rai_a\Documents\TCC\teste2_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 2806x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.267200 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.400600 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 349.
+Total: 0.603600 ms (FindLiveObjects: 0.039000 ms CreateObjectMapping: 0.047100 ms MarkObjects: 0.504200 ms  DeleteObjects: 0.011200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.520700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 363.
+Total: 0.889300 ms (FindLiveObjects: 0.187900 ms CreateObjectMapping: 0.082700 ms MarkObjects: 0.564600 ms  DeleteObjects: 0.049300 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.702000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 742.
+Total: 0.548000 ms (FindLiveObjects: 0.100300 ms CreateObjectMapping: 0.074300 ms MarkObjects: 0.361700 ms  DeleteObjects: 0.010100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.380900 ms
+
+Unloading 105 unused Assets to reduce memory usage. Loaded Objects now: 363.
+Total: 1.152900 ms (FindLiveObjects: 0.054000 ms CreateObjectMapping: 0.042800 ms MarkObjects: 0.618500 ms  DeleteObjects: 0.436300 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1208 -> priority: 1 
+  Thread -> id: 3888 -> priority: 1 

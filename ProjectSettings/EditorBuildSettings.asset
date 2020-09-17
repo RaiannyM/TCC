@@ -55,3 +55,9 @@ EditorBuildSettings:
     path: Assets/instrucoes.unity
   - enabled: 1
     path: Assets/situacao_problema.unity
+  - enabled: 1
+    path: Assets/dica1.unity
+  - enabled: 1
+    path: Assets/dica2.unity
+  - enabled: 1
+    path: Assets/dica3.unity

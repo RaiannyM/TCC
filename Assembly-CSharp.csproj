@@ -49,6 +49,9 @@
      <Compile Include="Assets\Scripts\Fluxo_para_ambiente.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_cooler.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_cpu.cs" />
+     <Compile Include="Assets\Scripts\Fluxo_para_dica1.cs" />
+     <Compile Include="Assets\Scripts\Fluxo_para_dica2.cs" />
+     <Compile Include="Assets\Scripts\Fluxo_para_dica3.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_drive_otico.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_fonte.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_gabinete.cs" />

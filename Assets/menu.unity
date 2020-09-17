@@ -373,7 +373,7 @@ GameObject:
   - component: {fileID: 801257407}
   - component: {fileID: 801257406}
   m_Layer: 5
-  m_Name: Continuar
+  m_Name: Entrar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1130,7 +1130,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CONTINUAR
+  m_Text: ENTRAR
 --- !u!222 &1902886351
 CanvasRenderer:
   m_ObjectHideFlags: 0
