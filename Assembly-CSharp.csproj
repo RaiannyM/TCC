@@ -55,6 +55,7 @@
      <Compile Include="Assets\Scripts\Fluxo_para_hd.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_id_componentes.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_impressora.cs" />
+     <Compile Include="Assets\Scripts\Fluxo_para_instrucoes.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_lista_de_cuidados.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_memoria_ram.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_menu.cs" />

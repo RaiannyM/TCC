@@ -51,3 +51,5 @@ EditorBuildSettings:
     path: Assets/placa_video.unity
   - enabled: 1
     path: Assets/placa_som.unity
+  - enabled: 1
+    path: Assets/instrucoes.unity
