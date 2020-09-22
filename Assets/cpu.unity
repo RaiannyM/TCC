@@ -541,8 +541,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -13}
-  m_SizeDelta: {x: 826, y: 455}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 826, y: 442}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &953843867
 MonoBehaviour:
@@ -577,11 +577,11 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 2
   m_Text: "O QUE \xC9? \r\nO processador \xE9 o item mais importante da m\xE1quina.
-    Uma CPU possui formato retangular e possui milh\xF5es de pequenas pe\xE7as min\xFAsculas.\r\n\nPARA
+    Uma CPU tem formato retangular e possui milh\xF5es de pequenas pe\xE7as min\xFAsculas.\r\n\nPARA
     QUE SERVE? \r\nA CPU se comunica com os demais componentes de hardware atrav\xE9s
     das liga\xE7\xF5es na placa-m\xE3e. \xC9 o c\xE9rebro do computador, sendo o componente
     respons\xE1vel por efetuar os c\xE1lculos necess\xE1rios para realizar tarefas
-    cotidianas.\r\n"
+    cotidianas.\r"
 --- !u!222 &953843868
 CanvasRenderer:
   m_ObjectHideFlags: 0

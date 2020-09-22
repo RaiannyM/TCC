@@ -262,8 +262,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "A placa-m\xE3e est\xE1 com curto-circuito, e a solu\xE7\xE3o \xE9 substituir
-    a mesma."
+  m_Text: "A placa-m\xE3e est\xE1 com curto-circuito; a solu\xE7\xE3o \xE9 substitu\xED-la."
 --- !u!222 &160056696
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -644,7 +643,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "A fonte est\xE1 com defeito, e a solu\xE7\xE3o \xE9 substituir a mesma."
+  m_Text: "A fonte est\xE1 com defeito; a solu\xE7\xE3o \xE9 substitu\xED-la."
 --- !u!222 &228126869
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -718,8 +717,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "A placa-m\xE3e est\xE1 com curto-circuito, e a solu\xE7\xE3o \xE9 substituir
-    a fonte."
+  m_Text: "A placa-m\xE3e est\xE1 com curto-circuito; a solu\xE7\xE3o \xE9 substituir
+    a fonte.\r"
 --- !u!222 &234319024
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1816,9 +1815,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Ao ligar um computador foi poss\xEDvel observar que o gabinete n\xE3o foi
-    ligado, qual o problema ocorrido e sua solu\xE7\xE3o? Leia as dicas e clique na
-    resposta correta."
+  m_Text: "Ao tentar ligar um computador, voc\xEA observou que o gabinete n\xE3o foi
+    ligado. Qual o problema ocorrido e sua solu\xE7\xE3o? Leia as dicas e clique na
+    resposta correta.\r"
 --- !u!222 &1748782834
 CanvasRenderer:
   m_ObjectHideFlags: 0

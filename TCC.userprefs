@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Fluxo_para_sair.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Fluxo_para_dica3.cs">
     <Files>
-      <File FileName="Assets\Scripts\Fluxo_para_placa_som.cs" Line="9" Column="2" />
-      <File FileName="Assets\Scripts\Fluxo_para_sair.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\Fluxo_para_dica1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Fluxo_para_dica2.cs" Line="10" Column="1" />
+      <File FileName="Assets\Scripts\Fluxo_para_dica3.cs" Line="10" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

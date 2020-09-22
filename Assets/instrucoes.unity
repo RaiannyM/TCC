@@ -191,8 +191,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 102}
-  m_SizeDelta: {x: 802, y: 262}
+  m_AnchoredPosition: {x: 0, y: 116.5}
+  m_SizeDelta: {x: 802, y: 233}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &388296253
 MonoBehaviour:
@@ -226,13 +226,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "Ao clicar em Continuar no menu, voc\xEA ser\xE1 direcionado a tela Ambiente,
-    onde \xE9 poss\xEDvel acessar as demais telas do OVA.\r\n1.\tPara acessar a Lista
-    de Cuidados a Serem Tomados, clique na folha colada na parede, indicada na figura
-    pela seta vermelha.\r\n2.\tPara ir \xE0 Identifica\xE7\xE3o dos Componentes, clique
-    no computador mais pr\xF3ximo a personagem, indicado na figura pela seta azul.\r\n3.\tPara
-    acessar a Situa\xE7\xE3o-problema, clique no computador ao lado, como indica a
-    seta amarela na figura.\r\n"
+  m_Text: "Ao clicar no bot\xE3o \u201CEntrar\u201D do menu voc\xEA ser\xE1 direcionado
+    para o ambiente principal, onde \xE9 poss\xEDvel acessar as demais op\xE7\xF5es
+    do programa.\r\n1 - Para acessar a \u201CLista de cuidados a serem tomados\u201D,
+    clique na folha colada na parede, indicada na figura pela seta vermelha.\r\n2
+    - Para ir \xE0 \u201CIdentifica\xE7\xE3o dos componentes\u201D, clique no computador
+    mais pr\xF3ximo da personagem, indicado na figura pela seta azul.\r\n3 - Para
+    acessar a \u201CSitua\xE7\xE3o-problema\u201D, clique no segundo computador indicado
+    pela seta amarela.\r\n"
 --- !u!222 &388296254
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -393,8 +394,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 259.5}
-  m_SizeDelta: {x: 400, y: 78}
+  m_AnchoredPosition: {x: 0, y: 265.75}
+  m_SizeDelta: {x: 400, y: 65.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &703575517
 MonoBehaviour:

@@ -508,8 +508,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -25.5}
-  m_SizeDelta: {x: 759, y: 443}
+  m_AnchoredPosition: {x: 0, y: -21}
+  m_SizeDelta: {x: 759, y: 434}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1764292175
 MonoBehaviour:
@@ -543,11 +543,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \r\nC\xE2mera de v\xEDdeo de baixo custo que capta imagens
-    e as transfere para um computador. \xC9 um perif\xE9rico, e tem a fun\xE7\xE3o
-    de dispositivo de entrada.\r\n\nPARA QUE SERVE? \r\nPode ser usada para videoconfer\xEAncia,
+  m_Text: "O QUE \xC9? \r\nC\xE2mera de v\xEDdeo que capta imagens e as transfere
+    para um computador. \xC9 um perif\xE9rico e tem a fun\xE7\xE3o de dispositivo
+    de entrada.\r\n\nPARA QUE SERVE? \r\nPode ser usada para videoconfer\xEAncia,
     monitoramento de ambientes, produ\xE7\xE3o de v\xEDdeo e imagens para edi\xE7\xE3o,
-    entre outras aplica\xE7\xF5es.\r\n"
+    entre outras aplica\xE7\xF5es.\r"
 --- !u!222 &1764292176
 CanvasRenderer:
   m_ObjectHideFlags: 0
