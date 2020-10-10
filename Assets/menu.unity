@@ -193,7 +193,7 @@ RectTransform:
   m_LocalScale: {x: 1.1916226, y: 1.1916229, z: 1.1916229}
   m_Children: []
   m_Father: {fileID: 1397991446}
-  m_RootOrder: 4
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -251,7 +251,7 @@ GameObject:
   - component: {fileID: 479077685}
   - component: {fileID: 479077684}
   m_Layer: 5
-  m_Name: Sair
+  m_Name: Botao_Sair
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -269,7 +269,7 @@ RectTransform:
   m_Children:
   - {fileID: 197858077}
   m_Father: {fileID: 1397991446}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -373,7 +373,7 @@ GameObject:
   - component: {fileID: 801257407}
   - component: {fileID: 801257406}
   m_Layer: 5
-  m_Name: Entrar
+  m_Name: Botao_Entrar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -391,7 +391,7 @@ RectTransform:
   m_Children:
   - {fileID: 1902886349}
   m_Father: {fileID: 1397991446}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -638,10 +638,10 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1518618294}
+  - {fileID: 199119210}
   - {fileID: 479077683}
   - {fileID: 801257405}
   - {fileID: 1761600931}
-  - {fileID: 199119210}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -953,7 +953,7 @@ GameObject:
   - component: {fileID: 1761600933}
   - component: {fileID: 1761600932}
   m_Layer: 5
-  m_Name: Instrucoes
+  m_Name: Botao_Instrucoes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -971,7 +971,7 @@ RectTransform:
   m_Children:
   - {fileID: 1573862469}
   m_Father: {fileID: 1397991446}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
