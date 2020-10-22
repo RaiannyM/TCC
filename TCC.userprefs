@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Fluxo_para_sair.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Fluxo_para_cpu.cs">
     <Files>
-      <File FileName="Assets\Scripts\Fluxo_para_sair.cs" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\Fluxo_para_cpu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Fluxo_para_sair.cs" Line="4" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
