@@ -220,8 +220,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -433.14, y: -302.39}
-  m_SizeDelta: {x: 187.17, y: 67.92}
+  m_AnchoredPosition: {x: -429.86, y: -302.2}
+  m_SizeDelta: {x: 178.18, y: 57.14}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &772795898
 MonoBehaviour:
@@ -516,7 +516,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -427.5, y: -294.93}
+  m_AnchoredPosition: {x: -427.5, y: -295.4}
   m_SizeDelta: {x: 623.67, y: 114.33}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1480587186
@@ -540,7 +540,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 30
+    m_FontSize: 37
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -741,8 +741,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -427.35, y: -298.81}
-  m_SizeDelta: {x: 599.94, y: 700.91}
+  m_AnchoredPosition: {x: -427.5, y: -298.83}
+  m_SizeDelta: {x: 599.94, y: 566.11}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2016916824
 MonoBehaviour:
@@ -765,7 +765,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 32
+    m_FontSize: 35
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -775,14 +775,10 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1.1
+    m_LineSpacing: 1.5
   m_Text: "I) Antes de abrir o gabinete do \r\n   computador:\r\n\t1.desligue o computador;\r\n\t2.desconecte
-    os perif\xE9ricos;\r\n\t3.descarregue a energia \r\n  eletrost\xE1tica;\r\n\t\t-Como
-    descarregar?\r\n\t\t\t.pulseira antiest\xE1tica;\r\n\t\t\t.encostar por alguns
-    \r\n         segundos em uma superf\xEDcie \r\n         met\xE1lica (que n\xE3o
-    seja \r\n         pintada);\r\n\t\t\t.ficar descal\xE7o e encostar \r\n         na
-    parede por alguns \r\n         segundos.\r\nII) Manuseie os componentes tocando
-    \r\n    apenas em suas bordas.\r\n"
+    os perif\xE9ricos;\r\t\t\nII) Manuseie os componentes tocando \r    apenas em
+    suas bordas.\r\n"
 --- !u!222 &2016916825
 CanvasRenderer:
   m_ObjectHideFlags: 0
