@@ -394,7 +394,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -41}
+  m_AnchoredPosition: {x: 0, y: 8}
   m_SizeDelta: {x: 760, y: 277}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1230554726
@@ -429,9 +429,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \r\n\xC9 um perif\xE9rico de entrada.\r\n\nPARA QUE SERVE?
+  m_Text: "O QUE \xC9? \r\n\xC9 um dispositivo de entrada de dados.\n\nPARA QUE SERVE?
     \r\nAuxilia no processo de entrada de dados, tem como fun\xE7\xE3o movimentar
-    o cursor (apontador) pela tela do monitor.\r\n"
+    o cursor (apontador) pela tela do monitor."
 --- !u!222 &1230554727
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -510,7 +510,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 200}
+  m_AnchoredPosition: {x: 0, y: 231}
   m_SizeDelta: {x: 379, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1550639274

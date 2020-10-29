@@ -158,7 +158,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "A fonte est\xE1 alimentando a tens\xE3o correta para a placa-m\xE3e!"
+  m_Text: "A fonte de energia do gabinete est\xE1 funcionando normalmente!"
 --- !u!222 &21462095
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -123,8 +123,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 213}
-  m_SizeDelta: {x: 415, y: 109}
+  m_AnchoredPosition: {x: 0, y: 254}
+  m_SizeDelta: {x: 415, y: 79}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &318718299
 MonoBehaviour:
@@ -319,8 +319,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -26}
-  m_SizeDelta: {x: 701, y: 369}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 772, y: 405}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &577768037
 MonoBehaviour:
@@ -354,10 +354,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \n\xC9 um perif\xE9rico que, quando conectado a um computador
-    ou a uma rede de computadores, tem a fun\xE7\xE3o de dispositivo de sa\xEDda.\r\n\nPARA
-    QUE SERVE? \nPara imprimir textos, gr\xE1ficos ou qualquer outro resultado de
-    uma aplica\xE7\xE3o.\r\n"
+  m_Text: "O QUE \xC9? \n\xC9 um dispositivo que, quando conectado a um computador
+    ou a uma rede de computadores, possui a fun\xE7\xE3o de sa\xEDda de dados.\r\n\nPARA
+    QUE SERVE? \nPara imprimir, por exemplo, textos, gr\xE1ficos, imagens ou qualquer
+    informa\xE7\xE3o (dados) dispon\xEDvel para o servi\xE7o de impress\xE3o de uma
+    aplica\xE7\xE3o.\n"
 --- !u!222 &577768038
 CanvasRenderer:
   m_ObjectHideFlags: 0

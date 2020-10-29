@@ -123,8 +123,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 217}
-  m_SizeDelta: {x: 510, y: 127}
+  m_AnchoredPosition: {x: 0, y: 223}
+  m_SizeDelta: {x: 510, y: 116}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &453529721
 MonoBehaviour:
@@ -677,7 +677,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -25}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 713, y: 317}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2097040098
@@ -712,9 +712,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \r\n\xC9 um dispositivo de sa\xEDda do computador.\r\n\nPARA
-    QUE SERVE? \r\nSua fun\xE7\xE3o \xE9 transmitir informa\xE7\xE3o ao usu\xE1rio
-    atrav\xE9s da imagem.\r\n"
+  m_Text: "O QUE \xC9? \r\n\xC9 um dispositivo de sa\xEDda de dados do computador.\r\n\nPARA
+    QUE SERVE? \r\nPossui a fun\xE7\xE3o de transmitir informa\xE7\xE3o do computador
+    para o usu\xE1rio atrav\xE9s da imagem."
 --- !u!222 &2097040099
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -776,9 +776,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: "I) Antes de abrir o gabinete do \r\n   computador:\r\n\t1.desligue o computador;\r\n\t2.desconecte
-    os perif\xE9ricos;\r\t\t\nII) Manuseie os componentes tocando \r    apenas em
-    suas bordas.\r\n"
+  m_Text: "I) Antes de abrir o gabinete do \r\n   computador:\r\n\t1. desligue o gabinete
+    da tomada;\r\n\t2. desconecte os perif\xE9ricos;\r\t\t\nII) Manuseie os componentes
+    tocando \r    apenas em suas bordas.\r\n"
 --- !u!222 &2016916825
 CanvasRenderer:
   m_ObjectHideFlags: 0

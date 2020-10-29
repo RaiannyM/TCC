@@ -163,8 +163,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 210}
-  m_SizeDelta: {x: 364, y: 128}
+  m_AnchoredPosition: {x: 0, y: 243}
+  m_SizeDelta: {x: 364, y: 111}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &662741435
 MonoBehaviour:
@@ -541,8 +541,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -4, y: -24}
-  m_SizeDelta: {x: 714, y: 277}
+  m_AnchoredPosition: {x: 8, y: 0}
+  m_SizeDelta: {x: 748, y: 376}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1505065499
 MonoBehaviour:
@@ -576,9 +576,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \r\n\xC9 um tipo de perif\xE9rico de entrada utilizado pelo
-    usu\xE1rio.\r\n\nPARA QUE SERVE? \r\nPara a entrada manual no sistema de dados
-    e comandos.\r\n"
+  m_Text: "O QUE \xC9? \r\n\xC9 um dispositivo de entrada de dados que possui teclas
+    representando letras, n\xFAmeros e s\xEDmbolos.\n\nPARA QUE SERVE? \r\nPermite
+    a entrada manual de dados no sistema ou aplica\xE7\xE3o atrav\xE9s de informa\xE7\xF5es
+    (dados) ou comandos digitados pelo usu\xE1rio."
 --- !u!222 &1505065500
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -123,8 +123,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 258}
-  m_SizeDelta: {x: 513, y: 81}
+  m_AnchoredPosition: {x: 0, y: 264.75}
+  m_SizeDelta: {x: 513, y: 67.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &84257226
 MonoBehaviour:
@@ -197,8 +197,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7, y: 9}
-  m_SizeDelta: {x: 826, y: 444}
+  m_AnchoredPosition: {x: 7, y: 11}
+  m_SizeDelta: {x: 826, y: 458}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &119310183
 MonoBehaviour:
@@ -232,11 +232,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \r\nTem formato parecido com um \u201Cpente\u201D e em muitos
-    computadores ela pode ser composta por dois, tr\xEAs ou mais m\xF3dulos. Elas
-    s\xE3o instaladas na placa-m\xE3e e ficam pr\xF3ximas do processador.\n\r\nPARA
-    QUE SERVE? \r\nOs dados que ficam armazenados nela s\xE3o tempor\xE1rios e essenciais
-    para que a CPU acesse os processos em execu\xE7\xE3o com alta velocidade.\r"
+  m_Text: "O QUE \xC9? \r\n\xC9 um dispositivo interno do computador, podendo ser
+    acoplado ou permanente (soldado) um ou mais m\xF3dulos de mem\xF3ria a placa-m\xE3e,
+    suas caracter\xEDsticas (forma, tamanho) sempre estar\xE3o de acordo com o modelo
+    da placa-m\xE3e.\r\n\r\nPARA QUE SERVE? \r\nPossui a fun\xE7\xE3o de armazenar
+    temporariamente as informa\xE7\xF5es (dados) que ser\xE3o utilizados (lidos) pelo
+    processador, otimizando o processamento (velocidade) da comunica\xE7\xE3o entre
+    aplicativos e o sistema operacional.\r"
 --- !u!222 &119310184
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -508,7 +510,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -333.5, y: -250}
+  m_AnchoredPosition: {x: -333.5, y: -261.5}
   m_SizeDelta: {x: 145, y: 45}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &727856803

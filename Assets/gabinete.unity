@@ -907,8 +907,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -426.36, y: -297.74}
-  m_SizeDelta: {x: 1231.13, y: 530.61}
+  m_AnchoredPosition: {x: -426.57, y: -297.45}
+  m_SizeDelta: {x: 1231.13, y: 537.76}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &799188326
 MonoBehaviour:
@@ -942,10 +942,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \r\nCaixa de metal usada para armazenar componentes.\r\n\nPARA
-    QUE SERVE? \r\nAl\xE9m de armazenar as placas, discos e demais pe\xE7as, o gabinete
-    possibilita a organiza\xE7\xE3o dos cabos e serve como um local para resfriamento
-    do hardware.\r\n\nCLIQUE NOS COMPONENTES ABAIXO PARA SABER MAIS.\n"
+  m_Text: "O QUE \xC9? \r\nCaixa de metal usada para organizar os principais dispositivos
+    internos do computador.\r\n\nPARA QUE SERVE? \r\nAl\xE9m de armazenar as placas,
+    discos e demais pe\xE7as, o gabinete possibilita a organiza\xE7\xE3o dos cabos
+    e serve como um local para resfriamento do hardware.\r\n\nCLIQUE NOS COMPONENTES
+    ABAIXO PARA SABER MAIS.\n"
 --- !u!222 &799188327
 CanvasRenderer:
   m_ObjectHideFlags: 0

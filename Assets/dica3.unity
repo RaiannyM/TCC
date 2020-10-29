@@ -340,7 +340,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O cabo que conecta a fonte ao estabilizador n\xE3o apresenta defeitos!"
+  m_Text: "O cabo de alimenta\xE7\xE3o de energia para o computador est\xE1 funcionando!\r"
 --- !u!222 &1242192785
 CanvasRenderer:
   m_ObjectHideFlags: 0

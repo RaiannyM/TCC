@@ -123,7 +123,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 8}
+  m_AnchoredPosition: {x: 0, y: -5}
   m_SizeDelta: {x: 733, y: 385}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &10962129
@@ -158,10 +158,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \r\nCaixa pequena de metal que permite ligar e desligar o computador.\r\n\nPARA
-    QUE SERVE? \r\n\xC9 respons\xE1vel por converter a voltagem da energia el\xE9trica,
-    que chega pelas tomadas, em voltagens menores, capazes de serem suportadas pelos
-    componentes do computador.\r"
+  m_Text: "O QUE \xC9? \r\n\xC9 um dispositivo interno que \xE9 acoplado na parte
+    traseira do gabinete, permitindo a conex\xE3o com a rede el\xE9trica atrav\xE9s
+    de um cabo de energia.\n\nPARA QUE SERVE? \r\nPossui a fun\xE7\xE3o de converter
+    a energia el\xE9trica (voltagem e tens\xE3o) recebida para os principais dispositivos
+    internos dentro do gabinete."
 --- !u!222 &10962130
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -531,7 +532,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: FONTE
+  m_Text: FONTE DE ENERGIA
 --- !u!222 &843909940
 CanvasRenderer:
   m_ObjectHideFlags: 0

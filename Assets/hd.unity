@@ -123,8 +123,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 263.5}
-  m_SizeDelta: {x: 660, y: 70}
+  m_AnchoredPosition: {x: 4.2201e-10, y: 255.25}
+  m_SizeDelta: {x: 830, y: 69.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &68045449
 MonoBehaviour:
@@ -147,7 +147,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: e95e71aa2901bc44f943a453c65164f3, type: 3}
-    m_FontSize: 36
+    m_FontSize: 32
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
@@ -158,7 +158,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "DISCO R\xCDGIDO (HD)"
+  m_Text: "DISCO R\xCDGIDO ou HARD DISK (HD)"
 --- !u!222 &68045450
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -197,8 +197,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 830, y: 469}
+  m_AnchoredPosition: {x: 0, y: -7}
+  m_SizeDelta: {x: 830, y: 455}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &265297220
 MonoBehaviour:
@@ -234,11 +234,11 @@ MonoBehaviour:
     m_LineSpacing: 2
   m_Text: "O QUE \xC9? \r\nO HD \xE9 um componente de formato retangular e possui
     em seu interior discos de metal, os quais mant\xEAm os dados gravados.\n\nPARA
-    QUE SERVE? \r\n\xC9 no HD que fica instalado o sistema operacional, os programas,
-    os jogos, os v\xEDdeos, as m\xFAsicas e as imagens do usu\xE1rio.  Diferente da
-    mem\xF3ria RAM, o disco r\xEDgido n\xE3o armazena os dados temporariamente. Todas
-    as informa\xE7\xF5es presentes no HD ficam nele at\xE9 que o usu\xE1rio decida
-    exclui-las. \r"
+    QUE SERVE? \r\n\xC9 no HD que fica instalado e armazenado o sistema operacional,
+    os programas, os jogos, os v\xEDdeos, as m\xFAsicas e as imagens do usu\xE1rio.
+    \ Diferente da mem\xF3ria RAM, o disco r\xEDgido n\xE3o armazena os dados temporariamente.
+    Todas as informa\xE7\xF5es presentes no HD ficam nele at\xE9 que o usu\xE1rio
+    decida exclu\xED-las. "
 --- !u!222 &265297221
 CanvasRenderer:
   m_ObjectHideFlags: 0

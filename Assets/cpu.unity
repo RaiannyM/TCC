@@ -541,8 +541,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 826, y: 442}
+  m_AnchoredPosition: {x: 0, y: 1.5}
+  m_SizeDelta: {x: 822, y: 426}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &953843867
 MonoBehaviour:
@@ -565,7 +565,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: e95e71aa2901bc44f943a453c65164f3, type: 3}
-    m_FontSize: 18
+    m_FontSize: 16
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -576,12 +576,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \r\nO processador \xE9 o item mais importante da m\xE1quina.
-    Uma CPU tem formato retangular e possui milh\xF5es de pequenas pe\xE7as min\xFAsculas.\r\n\nPARA
-    QUE SERVE? \r\nA CPU se comunica com os demais componentes de hardware atrav\xE9s
-    das liga\xE7\xF5es na placa-m\xE3e. \xC9 o c\xE9rebro do computador, sendo o componente
-    respons\xE1vel por efetuar os c\xE1lculos necess\xE1rios para realizar tarefas
-    cotidianas.\r"
+  m_Text: "O QUE \xC9? \r\n\xC9 um dos principais dispositivos do computador, sendo
+    ele um dispositivo interno que poder\xE1 ser acoplado ou permanente (soldado)
+    a placa m\xE3e, suas caracter\xEDsticas (forma e tamanho) sempre estar\xE3o de
+    acordo com o modelo da placa-m\xE3e.\r\n\nPARA QUE SERVE? \r\nConsiderado como
+    o c\xE9rebro do computador, sua principal fun\xE7\xE3o est\xE1 relacionada ao
+    desempenho, a velocidade que as informa\xE7\xF5es (dados) s\xE3o processados entre
+    a placa-m\xE3e e seus dispositivos interligados e aplicativos associados aos mesmos."
 --- !u!222 &953843868
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -682,8 +683,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 256.5}
-  m_SizeDelta: {x: 662, y: 84}
+  m_AnchoredPosition: {x: 0, y: 249}
+  m_SizeDelta: {x: 662, y: 69}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1784724286
 MonoBehaviour:

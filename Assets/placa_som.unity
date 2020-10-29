@@ -123,8 +123,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 255}
-  m_SizeDelta: {x: 521, y: 87}
+  m_AnchoredPosition: {x: 0, y: 252.5}
+  m_SizeDelta: {x: 521, y: 82}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &382371626
 MonoBehaviour:
@@ -551,9 +551,9 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 2
   m_Text: "O QUE \xC9? \r\n\xC9 um dispositivo de hardware que envia e recebe sinais
-    sonoros entre equipamentos de som e um computador.\r\n\nPARA QUE SERVE? \r\nExecuta
+    sonoros entre equipamentos de som e um computador.\n\nPARA QUE SERVE? \r\nExecuta
     um processo de convers\xE3o entre a forma digital e anal\xF3gica para outros perif\xE9ricos
-    como fones de ouvido ou provendo interfaces para outros equipamentos digitais.\r"
+    como fones de ouvido ou provendo interfaces para outros equipamentos digitais."
 --- !u!222 &1831482858
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -516,8 +516,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -22.25}
-  m_SizeDelta: {x: 768, y: 424.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 768, y: 369}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1766594331
 MonoBehaviour:
@@ -554,8 +554,8 @@ MonoBehaviour:
   m_Text: "O QUE \xC9? \r\nEsse componente normalmente fica no topo do gabinete. Existem
     diversos tipos de drives \xF3ticos, mas no geral os modelos s\xE3o divididos em
     tr\xEAs classes: drives de CD, drives de DVD e drives de Blu-ray.\r\n\nPARA QUE
-    SERVE? \r\nSua fun\xE7\xE3o \xE9 ler discos de filmes, jogos, m\xFAsicas, programas
-    e dados em geral.\r\n"
+    SERVE? \r\nSua fun\xE7\xE3o \xE9 ler ou gravar informa\xE7\xF5es (dados) nas m\xEDdias
+    CD, DVD e Blu-Ray."
 --- !u!222 &1766594332
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -716,7 +716,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "DRIVE \xD3TICO"
+  m_Text: "DRIVE \xD3PTICO"
 --- !u!222 &1983209407
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -237,7 +237,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 200}
+  m_AnchoredPosition: {x: 0, y: 246}
   m_SizeDelta: {x: 593, y: 85}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &606232255
@@ -677,7 +677,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -38}
+  m_AnchoredPosition: {x: 0, y: -6}
   m_SizeDelta: {x: 738, y: 347}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1873952159
@@ -712,9 +712,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \r\n\xC9 um perif\xE9rico que cont\xE9m alto-falante, e quando
-    conectado a um computador tem a fun\xE7\xE3o de dispositivo de sa\xEDda.\r\n\nPARA
-    QUE SERVE? \r\nPara reproduzir sons de uma aplica\xE7\xE3o.\r\n"
+  m_Text: "O QUE \xC9? \r\n\xC9 um dispositivo que cont\xE9m alto-falante, e quando
+    conectado a um computador possui a fun\xE7\xE3o de dispositivo de sa\xEDda de
+    dados.\r\n\nPARA QUE SERVE? \r\nPara reproduzir sons de uma aplica\xE7\xE3o.\n"
 --- !u!222 &1873952160
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -125,7 +125,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -336, y: -229}
+  m_AnchoredPosition: {x: -336, y: -256}
   m_SizeDelta: {x: 134, y: 47}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &639770255
@@ -603,8 +603,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 806, y: 378}
+  m_AnchoredPosition: {x: 5, y: 8}
+  m_SizeDelta: {x: 827, y: 441}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1713323955
 MonoBehaviour:
@@ -627,7 +627,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: e95e71aa2901bc44f943a453c65164f3, type: 3}
-    m_FontSize: 18
+    m_FontSize: 17
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -638,10 +638,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \r\nAs placas-m\xE3e possuem um formato retangular e uma enormidade
-    de pequenas pe\xE7as vis\xEDveis a olho nu.\r\n\nPARA QUE SERVE? \r\nEla \xE9
-    a pe\xE7a que une todos os demais itens de hardware, o que a torna essencial para
-    o funcionamento da m\xE1quina.\r\n"
+  m_Text: "O QUE \xC9? \r\n\xC9 um dos principais dispositivos do computador, sendo
+    um dispositivo interno instalado dentro do gabinete, suas caracter\xEDsticas (forma
+    e tamanho) e recursos (funcionalidades) podem variar de acordo com cada fabricante.\n\nPARA
+    QUE SERVE? \r\nPossui a fun\xE7\xE3o de interligar todos os outros dispositivos
+    (interno ou externo) do computador, realizando a comunica\xE7\xE3o entre eles,
+    mas h\xE1 uma obrigatoriedade, o modelo da Placa-m\xE3e sempre deve ser compat\xEDvel
+    com o modelo do processador.\r\n"
 --- !u!222 &1713323956
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -680,7 +683,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 235}
+  m_AnchoredPosition: {x: 0, y: 259}
   m_SizeDelta: {x: 392, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2082070890

@@ -368,7 +368,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: O monitor e o estabilizador ligaram normalmente!
+  m_Text: 'O monitor conectado ao estabilizador ligou normalmente!
+
+'
 --- !u!222 &923630742
 CanvasRenderer:
   m_ObjectHideFlags: 0
