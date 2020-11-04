@@ -158,7 +158,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "DISCO R\xCDGIDO ou HARD DISK (HD)"
+  m_Text: ARMAZENAMENTO INTERNO
 --- !u!222 &68045450
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -197,8 +197,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -7}
-  m_SizeDelta: {x: 830, y: 455}
+  m_AnchoredPosition: {x: 0, y: -8}
+  m_SizeDelta: {x: 830, y: 457}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &265297220
 MonoBehaviour:
@@ -221,7 +221,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: e95e71aa2901bc44f943a453c65164f3, type: 3}
-    m_FontSize: 18
+    m_FontSize: 16
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -232,13 +232,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: "O QUE \xC9? \r\nO HD \xE9 um componente de formato retangular e possui
-    em seu interior discos de metal, os quais mant\xEAm os dados gravados.\n\nPARA
-    QUE SERVE? \r\n\xC9 no HD que fica instalado e armazenado o sistema operacional,
-    os programas, os jogos, os v\xEDdeos, as m\xFAsicas e as imagens do usu\xE1rio.
-    \ Diferente da mem\xF3ria RAM, o disco r\xEDgido n\xE3o armazena os dados temporariamente.
-    Todas as informa\xE7\xF5es presentes no HD ficam nele at\xE9 que o usu\xE1rio
-    decida exclu\xED-las. "
+  m_Text: "O QUE \xC9? \r\nOs dispositivos de armazenamento interno mais comuns s\xE3o
+    o HD e o SSD, ambos t\xEAm formato retangular, mas tamanhos diferentes (o HD \xE9
+    maior que o SSD).\n\nPARA QUE SERVE? \r\n\xC9 nele que fica instalado e armazenado
+    o sistema operacional, os programas, os jogos, os v\xEDdeos, as m\xFAsicas e as
+    imagens do usu\xE1rio. Diferente da mem\xF3ria RAM, este dispositivo n\xE3o armazena
+    os dados temporariamente. Todas as informa\xE7\xF5es presentes no dispositivo
+    de armazenamento interno ficam nele at\xE9 que o usu\xE1rio decida exclu\xED-las. "
 --- !u!222 &265297221
 CanvasRenderer:
   m_ObjectHideFlags: 0

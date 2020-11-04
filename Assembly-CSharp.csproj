@@ -70,7 +70,6 @@
      <Compile Include="Assets\Scripts\Fluxo_para_sair.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_situacao_problema.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_speaker.cs" />
-     <Compile Include="Assets\Scripts\Fluxo_para_ssd.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_teclado.cs" />
      <Compile Include="Assets\Scripts\Fluxo_para_webcam.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />

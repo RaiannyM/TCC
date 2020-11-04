@@ -45,7 +45,7 @@ EditorBuildSettings:
     path: Assets/memoria_ram.unity
   - enabled: 1
     path: Assets/hd.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/ssd.unity
   - enabled: 1
     path: Assets/placa_video.unity

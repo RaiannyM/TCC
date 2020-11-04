@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/lista_de_cuidados.unity
+- path: Assets/gabinete.unity
   isLoaded: 1
   isActive: 1
